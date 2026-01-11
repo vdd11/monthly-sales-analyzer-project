@@ -80,6 +80,7 @@ def top_product(data):
         return "product_c"
 
 
+
 # Function tests
 print("Total sales of product_a:", total_sales_by_product(sales_data, "product_a"))
 print("Average daily sales of product_b:", average_daily_sales(sales_data, "product_b"))
